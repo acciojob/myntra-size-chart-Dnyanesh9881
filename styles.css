@@ -1,2 +1,21 @@
-
+table,th,tr,td{
+	border:1px solid black;
+	border-collapse:collapse;
+	
+}
+table{
+	width:80%;
+}
+#ab{
+	background-color:olive
+}
+#bc{
+	background-color:ligt
+}
+#cd{
+	background-color:
+}
+#de{
+	background-color:
+}
 /* Your CSS Code here. */
